@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Secure RAG<br>🌱 I’m currently learning MLOPS<br>💬 Ask me about Gen AI apps , Langchain , LangGraph
+🔭 I’m currently working on Krypton<br>🌱 I’m currently learning MLOPS and Complex FastAPI backend<br>💬 Ask me about Gen AI apps , Langchain , LangGraph , FinAI  
 
 
 ## 🌐 Socials:
